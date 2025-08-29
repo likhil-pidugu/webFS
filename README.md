@@ -12,7 +12,7 @@
 
 <div align="center" style="margin: 40px 0;">
 
-[📖 Features](#-features) • [🛠️ Installation](#-installation) • [🎮 Usage](#-usage) • [📸 Screenshots](#-screenshots) • [👨‍💻 About Me](#-about-me) • [📞 Contact](#-contact)
+[📖 Features](#-features) • [🛠️ Installation](#-Installation) • [🎮 Usage](#-usage) • [📸 Screenshots](#-screenshots) • [👨‍💻 About Me](#-about-me) • [📞 Contact](#-contact)
 
 </div>
 
@@ -172,86 +172,6 @@ or any illegal purposes.
 
 </div>
 
-
-
-    <!--
-<style>
-  /* Animation for the header */
-  h1 {
-    animation: colorChange 5s infinite alternate;
-    text-align: center;
-    margin-bottom: 30px;
-  }
-  
-  /* Feature table animation */
-  table {
-    animation: fadeIn 2s;
-    width: 100%;
-    border-collapse: collapse;
-    margin: 25px 0;
-  }
-  
-  /* Button animations */
-  .md-button {
-    transition: all 0.3s ease;
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 10px;
-    border-radius: 5px;
-    background-color: #2563eb;
-    color: white;
-    text-decoration: none;
-  }
-  
-  .md-button:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 5px 15px rgba(37, 99, 235, 0.4);
-  }
-  
-  /* Keyframe animations */
-  @keyframes colorChange {
-    0% { color: #2563eb; }
-    50% { color: #10b981; }
-    100% { color: #f59e0b; }
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  
-  /* Badge animations */
-  .shields-io-badge {
-    display: inline-block;
-    margin: 5px;
-    transition: transform 0.3s ease;
-  }
-  
-  .shields-io-badge:hover {
-    transform: scale(1.1);
-  }
-  
-  /* Code block styling */
-  pre {
-    animation: slideIn 1s;
-    border-left: 4px solid #2563eb;
-  }
-  
-  @keyframes slideIn {
-    from { transform: translateX(-20px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-</style>
-
-<script>
-  // Simple typing animation effect
-  document.addEventListener('DOMContentLoaded', function() {
-    const elements = document.querySelectorAll('h2, h3, h4');
-    elements.forEach((el, index) => {
-      el.style.animation = `fadeIn 0.5s ease ${index * 0.2}s both`;
-    });
-  });
-</script>   -->
 
 
 */
