@@ -83,9 +83,9 @@ Right-click on any file or folder to access a context menu with all available op
 |-------------|------------|
 | ![Light Theme](https://likhil.42web.io/github_assets/webFS_light_theme.png) | ![Dark Theme](https://likhil.42web.io/github_assets/webFS_dark_theme.png) |
 
-| File Preview | Mobile View |
+| Options | Files Preview |
 |--------------|-------------|
-| ![File Preview](https://likhil.42web.io/github_assets/webFS_file_preview.png) | ![Mobile View](https://likhil.42web.io/github_assets/webFS_mobile_view.png) |
+| ![File Preview](https://likhil.42web.io/github_assets/webFS_options.png) | ![Mobile View](https://likhil.42web.io/github_assets/webFS_file_viewer.png) |
 
 </div>
 
@@ -110,7 +110,8 @@ AppWebFS is built with pure PHP on the server-side and vanilla JavaScript with m
 
 <div align="center">
 
-![Profile Picture](https://avatars.githubusercontent.com/u/0?s=100)
+![Profile Picture](<img width="460" height="460" alt="150881573" src="https://github.com/user-attachments/assets/ec91f2ae-75ec-48d7-86cf-ad78c27f9d9b" />)
+
 
 ### Pedigree Liquid
 
