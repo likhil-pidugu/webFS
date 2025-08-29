@@ -1,4 +1,4 @@
-# 🚀 AppWebFS - Web File System
+# 🚀 WebFS - Web File System
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Right-click on any file or folder to access a context menu with all available op
 
 | Light Theme | Dark Theme |
 |-------------|------------|
-| ![Light Theme](https://via.placeholder.com/400x250/2563EB/FFFFFF?text=Light+Theme+Screenshot) | ![Dark Theme](https://via.placeholder.com/400x250/1E293B/FFFFFF?text=Dark+Theme+Screenshot) |
+| ![Light Theme](https://likhil.42web.io/github_assets/webFS_dark_theme) | ![Dark Theme]([https://via.placeholder.com/400x250/1E293B/FFFFFF?text=Dark+Theme+Screenshot](https://likhil.42web.io/github_assets/webFS_light_theme)) |
 
 | File Preview | Mobile View |
 |--------------|-------------|
@@ -136,8 +136,7 @@ I'm a passionate developer who loves creating practical tools with PHP. AppWebFS
 Have questions, suggestions, or found a bug? Feel free to reach out!
 
 - 📧 Email: **pidugulikhil@gmail.com**
-- 🐛 Issues: [GitHub Issues](https://github.com/likhil-pidugu/WebFS/)
-- 💬 Discussions: [GitHub Discussions](https://github.com/PedigreeLiquid/AppWebFS/discussions)
+- 🐛 Instagram : [Report Issues](https://instagram.com/pidugulikhil/)
 
 ## 📜 License
 
