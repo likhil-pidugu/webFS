@@ -81,11 +81,11 @@ Right-click on any file or folder to access a context menu with all available op
 
 | Light Theme | Dark Theme |
 |-------------|------------|
-| ![Light Theme](https://likhil.42web.io/github_assets/webFS_dark_theme) | ![Dark Theme]([https://via.placeholder.com/400x250/1E293B/FFFFFF?text=Dark+Theme+Screenshot](https://likhil.42web.io/github_assets/webFS_light_theme)) |
+| ![Light Theme](https://likhil.42web.io/github_assets/webFS_light_theme.png) | ![Dark Theme](https://likhil.42web.io/github_assets/webFS_dark_theme.png) |
 
 | File Preview | Mobile View |
 |--------------|-------------|
-| ![File Preview](https://via.placeholder.com/400x250/10B981/FFFFFF?text=File+Preview+Screenshot) | ![Mobile View](https://via.placeholder.com/400x250/F59E0B/FFFFFF?text=Mobile+View+Screenshot) |
+| ![File Preview](https://likhil.42web.io/github_assets/webFS_file_preview.png) | ![Mobile View](https://likhil.42web.io/github_assets/webFS_mobile_view.png) |
 
 </div>
 
