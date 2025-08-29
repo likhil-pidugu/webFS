@@ -124,10 +124,10 @@ I'm a passionate developer who loves creating practical tools with PHP. AppWebFS
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedigreeLiquid)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PedigreeLiquid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PedigreeLiquid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://pedigreeliquid.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://likhil.42web.io)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pidugulikhil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pidugulikhil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/likhil-pidugu)
 
 </div>
 
@@ -135,8 +135,8 @@ I'm a passionate developer who loves creating practical tools with PHP. AppWebFS
 
 Have questions, suggestions, or found a bug? Feel free to reach out!
 
-- 📧 Email: **pedigree@liquid.com**
-- 🐛 Issues: [GitHub Issues](https://github.com/PedigreeLiquid/AppWebFS/issues)
+- 📧 Email: **pidugulikhil@gmail.com**
+- 🐛 Issues: [GitHub Issues](https://github.com/likhil-pidugu/WebFS/)
 - 💬 Discussions: [GitHub Discussions](https://github.com/PedigreeLiquid/AppWebFS/discussions)
 
 ## 📜 License
@@ -171,12 +171,15 @@ SOFTWARE.
 
 <div align="center">
 
-### ⭐ If you find this project useful, please give it a star on GitHub!
+### ⭐ If you find this project useful, please explore other repos too
 
-![Footer](https://visitor-badge.laobi.icu/badge?page_id=PedigreeLiquid.AppWebFS)
+![Footer](https://visitor-badge.laobi.icu/badge?page_id=likhil-pidugu.webFS)
 
 </div>
 
+
+
+/*
 <style>
   /* Animation for the header */
   h1 {
@@ -257,6 +260,4 @@ SOFTWARE.
 
 
 
-
-
-
+*/
